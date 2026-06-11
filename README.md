@@ -80,7 +80,7 @@ Low-code database-driven online marketplace management system built entirely in 
 Built a dual-optimization pathfinding system on a perfect square graph that computes both shortest-distance and fastest-time routes using Dijkstra's algorithm with accumulated hourly traffic modeling. Designed the complete graph generation with configurable grid networks, realistic edge-removal simulation, and highway-speed variation. Built graph serialization and I/O layer supporting persistence. Implemented parametric Dijkstra's algorithm enabling both distance and time-optimized pathfinding with accumulated hour modeling to simulate real-world traffic changes. Developed evaluation framework validating performance across graph scales and constraint scenarios. Interactive and batch modes with full node/edge avoidance support.
 
 ---
-### [E-Motorbike Rental Application](https://github.com/giaphat060206/E-MOTORBIKE-RENTAL-APPLICATION_SED_EEET2482-EEET2653); `2025` &nbsp; ⭐ Distinction
+### [E-Motorbike Rental Application](https://github.com/giaphat060206/E-MOTORBIKE-RENTAL-APPLICATION_SED_EEET2482-EEET2653) `2025` &nbsp; ⭐ Distinction
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
