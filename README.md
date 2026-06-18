@@ -5,6 +5,7 @@
 **Software Engineering student @ RMIT University, Ho Chi Minh City**
 
 *Looking to learn and Getting more experience*
+*Personal CV is included in the repository: [TicTacToang — Multiplayer Gomoku Platform](https://github.com/giaphat060206/giaphat060206)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giaphat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%C3%A1t-gia-492b39294/)
 [![Email](https://img.shields.io/badge/Email-giaphat060206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giaphat060206@gmail.com)
