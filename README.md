@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-| [FlowGuard — Flood Early Warning](https://github.com/KhanhQNguyn/flowguard) &nbsp; 🥇 | [TicTacToang — Multiplayer Gomoku](https://github.com/RMIT-Full-Stack-Development-2026A/Group1) |
+| [FlowGuard — Flood Early Warning](https://github.com/KhanhQNguyn/flowguard) &nbsp; 🥇 | [TicTacToang — Multiplayer Gomoku](https://github.com/RMIT-Full-Stack-Development-2026A/Group1) &nbsp; ⭐ *HD* |
 |:---|:---|
 | **Hack-A-Venture Champion:** Architected a flood alert MVP in 24 hours. Fused mock IoT sensor feeds, OpenWeather API, and tidal inputs into an end-to-end pipeline with sub-45s latency. | **Live Platform:** Contributed to a 5-person Scrum team to ship a Gomoku Webpage for 50+ concurrent players. Implemented dynamic mobile UI/UX for admin, guest, and player pages. |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
