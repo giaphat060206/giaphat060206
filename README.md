@@ -3,7 +3,7 @@
 **Software Engineering Student @ RMIT University (Ho Chi Minh City)**
 
 > 🚀 *Driven to learn, build, and innovate. Actively seeking internship & junior developer roles to gain real-world experience.* <br>
-> 📄 *View my [Personal CV](https://github.com/giaphat060206/giaphat060206)*
+> 📄 *View my [Personal CV](https://github.com/giaphat060206/giaphat060206](https://github.com/giaphat060206/giaphat060206/blob/main/Nguyen%20Don%20Gia%20Phat%20CV.pdf))*
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ph%C3%A1t-gia-492b39294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
